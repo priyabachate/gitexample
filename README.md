@@ -1,2 +1,2 @@
-# gitexample
+# todaydemo
 example of git repository
